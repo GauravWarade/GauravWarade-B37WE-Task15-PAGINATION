@@ -1,0 +1,15 @@
+.pagination{
+    justify-content: center;
+}
+.content{
+    padding: 40px;
+    padding-left:300px;
+    padding-right: 300px;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+body{
+    background-color:darkkhaki
+}
